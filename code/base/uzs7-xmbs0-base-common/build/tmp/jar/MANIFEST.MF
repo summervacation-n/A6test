@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Name: uzs7.cosmic
+Project-Name: uzs7-xmbs0-base-common
+Bundle-Version: 1.0.0
+Build-Num: 20250606180810270
+Build-Date: 2025-06-06 18:08:10
+Build-Jdk: 17.0.14
+Built-By: Kingdee Cosmic Developer Tools
+Build-Tool: Gradle 7.6.3
+Git-Commit-Hash: 
+Git-Branch: 
+Cloud-Name: 
+App-Name: 
+Jar-Id: 
+Build-Image: 
+
