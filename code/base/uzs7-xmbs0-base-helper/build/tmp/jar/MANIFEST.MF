@@ -2,13 +2,13 @@ Manifest-Version: 1.0
 Group-Name: uzs7.cosmic
 Project-Name: uzs7-xmbs0-base-helper
 Bundle-Version: 1.0.0
-Build-Num: 20250619180301595
-Build-Date: 2025-06-19 18:03:01
+Build-Num: 20250620131736869
+Build-Date: 2025-06-20 13:17:36
 Build-Jdk: 17.0.14
 Built-By: Kingdee Cosmic Developer Tools
 Build-Tool: Gradle 7.6.3
-Git-Commit-Hash: 2905438fc3e21ada06bfc41d27b8feed163b9dfc
-Git-Branch: main
+Git-Commit-Hash: d8ebe31e1420ba0c557326b22d6140deea12cc6d
+Git-Branch: changeIp
 Cloud-Name: 
 App-Name: 
 Jar-Id: 
